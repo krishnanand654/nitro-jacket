@@ -33,7 +33,7 @@ export const Home = () => {
 
                 <Fade>
                     <div className=''>
-                        <img className='img' src="body.png" />
+                        <img className='img w-100' src="body.png" />
                     </div>
                 </Fade>
 
